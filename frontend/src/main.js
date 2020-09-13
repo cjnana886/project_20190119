@@ -8,7 +8,7 @@ import ElementUI from 'element-ui'
 Vue.config.productionTip = false
 
 // 加載Element
-Vue.use(ElementUI);
+Vue.use(ElementUI)
 
 /* eslint-disable no-new */
 new Vue({
